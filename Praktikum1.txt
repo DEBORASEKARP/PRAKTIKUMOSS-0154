@@ -1,3 +1,0 @@
-DEBORA SEKAR PROBORETNO : G.231.20.0154 : SEMARANG
-Mata Kuliah : Open Source System
-Catatan : Praktikum dengan menggunakan GIT 
